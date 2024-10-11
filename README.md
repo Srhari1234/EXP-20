@@ -122,7 +122,7 @@ int main(){
 
 <img width="446" alt="image" src="https://github.com/user-attachments/assets/8abaf9b3-5155-4f0f-bc06-88772f71b316">
 
-## 3.:
+## 3.Bubble sort:
 ~~~
 //Name: Srihari Nair
 //Prn: 23070123131
